@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-include: [/.test]
+include: [/.test, /.well-known]
